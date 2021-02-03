@@ -806,7 +806,7 @@
     }
     .Intro .icontainer .hello{
         height: 100%;
-        font-size: 7.8em;
+        font-size:10em;
         font-weight: bolder;
         display: flex;
         flex-direction: column;
@@ -936,7 +936,7 @@
         color: rgb(30, 106, 194);
     }
     .About .acontent .cst{
-        font-size: 1.3em;
+        font-size: 2em;
         color: rgb(122, 122, 122);
         font-weight: bold;
     }
